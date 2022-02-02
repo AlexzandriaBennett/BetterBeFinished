@@ -2,15 +2,15 @@
 
 Welcome to the to do list!
 
-This is a demo project that I am working on to showcase my skills, that I have learned over the last few months.
+This is a demo project that I am working on to showcase my skills that I have learned over the last few months.
 
-In this demo project, I plan to include the following topics of technology.
+In this demo project I plan to include the following topics:
 
-1. C Sharp Knowledge
+1. C#/.NET Knowledge
 
-2. Tools - GitHub, Visual Studio Purple, Visual Studio Code. Git commands. Just how to use a computer.
+2. Tools - GitHub, Visual Studio, VS Code, and Git commands.
 
-3. Unit Testing. inheritance. Base classes. Derived classes. Implementations of Inheritance. IResponses
+3. Unit Testing. Inheritance. Base classes. Derived classes. Implementations of Inheritance. IResponses
 
 4. HTML, CSS and JS => React JS client app
 
@@ -18,7 +18,7 @@ In this demo project, I plan to include the following topics of technology.
 
 6. Entity Framework - agent of database. Migrations. SQLite.
 
-7. OAuth2 via Auth0. Authentication and Authorization. Configuring three things - dashboard of the identity server, API server and of course, the client app
+7. OAuth2 via Auth0. Authentication and Authorization. Configuration of the dashboard of the identity server, API server, and the client app
 
 # Table Of Contents
 
